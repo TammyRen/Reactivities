@@ -5,6 +5,7 @@ using System.Collections.Generic;
 using Domain;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
+
 namespace API.Controllers
 {
     public class ActivitiesController: BaseApiController
